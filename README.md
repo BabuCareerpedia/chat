@@ -1,8 +1,10 @@
-# React + Vite
+# chat box
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![pexels-photo-19992969](https://github.com/BabuCareerpedia/chat/assets/155607217/737417d2-475a-42aa-a18b-932f811d5632)
+![pexels-photo-19992969](https://github.com/BabuCareerpedia/chat/assets/155607217/b3dd7a04-adf6-4463-b77f-a8c17afa9d85)
+![Uploading pexels-photo-19992969.jpeg…]()
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+javascript html
